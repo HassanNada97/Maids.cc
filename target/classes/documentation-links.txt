@@ -1,0 +1,4 @@
+#api-docs
+http://localhost:8080/demo-maids/v3/api-docs
+#swagger ui
+http://localhost:8080/demo-maids/swagger-ui/index.html
